@@ -5,8 +5,7 @@ I do coding stuff.
 
 <p align="left">
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=LimesKey&count_private=true&show_icons=true&theme=tokyonight&border_radius=15" />
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimesKey&theme=tokyonight&border_radius=15" />
-</p>
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimesKey&layout=compact&border_color=fff&&theme=tokyonight&border_radius=11&hide=jupyter%20notebook&langs_count=6" /></p>
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
