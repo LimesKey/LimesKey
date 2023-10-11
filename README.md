@@ -17,6 +17,7 @@ I do coding stuff.
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" > <img src="https://user-images.githubusercontent.com/96280466/188333337-b3f1dc81-2bbb-4c73-bbb0-ef8c476ae467.png" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/> </a>
+  <a href= "https://www.rust-lang.org" traget =_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" alt="rust" width="40"/> </a>
  
   <h2 align="left">Tools</h2>
  <a href="https://www.raspberrypi.org/" target="_blank" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="react" width="40" height="40"/></a>
