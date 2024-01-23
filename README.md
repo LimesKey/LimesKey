@@ -3,6 +3,14 @@
 <h2 align-"left">About Me</h2>
 I do coding stuff.
 
+* Powershell
+* Tauri
+* Rust
+* PostgresSQL
+* Cloudflare
+* Svelte
+* Java
+
 <p align=right>
 <a href="https://wakatime.com/@f7db4c5e-9dd7-4181-aa0a-cad5f52d5ee2"><img src="https://wakatime.com/badge/user/f7db4c5e-9dd7-4181-aa0a-cad5f52d5ee2.svg" alt="Total time coded since Jun 13 2023" /></a>
 </p>
