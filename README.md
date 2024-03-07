@@ -11,6 +11,16 @@ I do coding stuff.
 * Svelte
 * Java
 
+
+| Technologies |            |             |
+| ---------- | ---------- | ----------- |
+| Powershell   | Cloudflare    | Linux       |
+| Python     | TypeScript | TailwindCSS |
+| Tauri     | Svelte    | EasyEDA PCB      |
+| Rust    | Java  | PostgreSQL  |
+| Docker    |   |   |
+
+
 <p align=right>
 <a href="https://wakatime.com/@f7db4c5e-9dd7-4181-aa0a-cad5f52d5ee2"><img src="https://wakatime.com/badge/user/f7db4c5e-9dd7-4181-aa0a-cad5f52d5ee2.svg" alt="Total time coded since Jun 13 2023" /></a>
 </p>
