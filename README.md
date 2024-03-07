@@ -3,15 +3,6 @@
 <h2 align-"left">About Me</h2>
 I do coding stuff.
 
-* Powershell
-* Tauri
-* Rust
-* PostgresSQL
-* Cloudflare
-* Svelte
-* Java
-
-
 | Technologies |            |             |
 | ---------- | ---------- | ----------- |
 | Powershell   | Cloudflare    | Linux       |
