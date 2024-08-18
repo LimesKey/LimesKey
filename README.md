@@ -1,39 +1,33 @@
 <h1 align="center">👋 Hi, I'm LimesKey</h1>
 
-<h2 align-"left">About Me</h2>
-I do coding stuff.
-
-| Technologies |            |             |
-| ---------- | ---------- | ----------- |
-| Powershell   | Cloudflare    | Linux       |
-| Python     | TypeScript | TailwindCSS |
-| Tauri     | Svelte    | EasyEDA PCB      |
-| Rust    | Java  | PostgreSQL  |
-| Docker    |   |   |
-
-
 <p align=right>
 <a href="https://wakatime.com/@f7db4c5e-9dd7-4181-aa0a-cad5f52d5ee2"><img src="https://wakatime.com/badge/user/f7db4c5e-9dd7-4181-aa0a-cad5f52d5ee2.svg" alt="Total time coded since Jun 13 2023" /></a>
 </p>
-  
-<p align="left">
+
+<h2 align-"left">About Me</h2>
+I'm a high schooler located in Ontario, Canada looking to get into electrical engineering and software development. I've done a lot of really cool projects over the years, I hope you check them out.
+<br></br>
+I enjoy working with a variety of tools to help me, including,
+
+|  |         Technologies   |             |
+| ---------- | ---------- | ----------- |
+| Powershell   | Cloudflare | Linux Mint       |
+| Python     | TypeScript  | KiCad |
+| Tauri     | Svelte    | PostgreSQL  |
+| Rust    | Java  |  Grafana |
+| Docker    |  UnRaid |Nginx   |
+
+<p align="center">
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=LimesKey&count_private=true&show_icons=true&theme=tokyonight&border_radius=15" />
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimesKey&layout=compact&border_color=fff&&theme=tokyonight&border_radius=11&hide=jupyter%20notebook&langs_count=6" /></p>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- This adds space between the images -->
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimesKey&layout=compact&border_color=fff&&theme=tokyonight&border_radius=11&hide=jupyter%20notebook&langs_count=6" />
+</p>
+
 <h2 align="left">Connect with me</h2>
 <p align="left">
   <a href="https://www.limeskey.com/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/96280466/188333385-7899ac2b-a73b-489c-8473-e9da08b3ca77.png" alt="limes-key" height="38" width="38" /></a>
   <a href="https://discord.com/users/418543945551708163" target="_blank"><img align="center" src="https://clipground.com/images/discord-icon-png-4.png" alt="919687880773861416" width="40" /></a>
 </p>
 
-<h2 align="left">Languages</h2>
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" > <img src="https://user-images.githubusercontent.com/96280466/188333337-b3f1dc81-2bbb-4c73-bbb0-ef8c476ae467.png" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/> </a>
-  <a href= "https://www.rust-lang.org" traget =_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" alt="rust" width="40"/> </a>
- 
-  <h2 align="left">Tools</h2>
- <a href="https://www.raspberrypi.org/" target="_blank" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="react" width="40" height="40"/></a>
- <a href="https://www.linux.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </a>
-  
   <h2>GitHub Awards</h2>
-  <p align="left"> <img src="https://github-trophies.vercel.app/?username=LimesKey&theme=tokyonight&border_radius=15" alt="LimesKey" /></a></p>
+  <p align="center"> <img src="https://github-trophies.vercel.app/?username=LimesKey&theme=tokyonight&border_radius=15" alt="LimesKey" /></a></p>
