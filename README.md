@@ -7,8 +7,8 @@
 <h2 align-"left">About Me</h2>
 I'm a high school student located in Ontario, Canada interested in electrical engineering and software development. I've done a lot of really cool projects over the years, I hope you check them out in my git repos and commits.
 <br></br>
-I enjoy working with a variety of tools to help me, including,
 
+I work with a collection of tools in my work, check them out
 |  |         Technologies   |             |
 | ---------- | ---------- | ----------- |
 | Powershell   | Cloudflare | Linux Mint       |
@@ -16,7 +16,7 @@ I enjoy working with a variety of tools to help me, including,
 | Tauri     | Svelte    | PostgreSQL  |
 | Rust    | Java  |  Grafana |
 | Docker    |  UnRaid |Nginx   |
-
+<br>
 <p align="center">
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=LimesKey&count_private=true&show_icons=true&theme=tokyonight&border_radius=15" />
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- This adds space between the images -->
