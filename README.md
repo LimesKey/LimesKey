@@ -5,7 +5,7 @@
 </p>
 
 <h2 align-"left">About Me</h2>
-I'm a high school student located in Ontario, Canada interested in electrical engineering and software development. I've done a lot of really cool projects over the years, I hope you check them out in my git repos and commits.
+I'm a polytechnic student located in Ontario, Canada interested in electrical engineering and software development. I've done a lot of really cool projects over the years, I hope you check them out in my git repos and commits.
 <br></br>
 
 I work with a collection of tools in my work, check them out
